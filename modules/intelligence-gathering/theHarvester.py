@@ -26,7 +26,7 @@ DEBIAN="git python python-requests"
 FEDORA="git"
 
 # COMMANDS TO RUN AFTER
-AFTER_COMMANDS=""
+AFTER_COMMANDS="chmod +x /pentest/intelligence-gathering/theharvester/theHarvester.py"
 
 # CREATE LAUNCHER
 LAUNCHER="theHarvester"
